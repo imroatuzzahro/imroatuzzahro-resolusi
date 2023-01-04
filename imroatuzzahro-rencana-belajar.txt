@@ -3,3 +3,4 @@ Belajar JavaScript
 Belajar Python
 Belajar Java
 Belajar C++
+Belajar TypeScript
