@@ -4,4 +4,6 @@ Belajar Python
 Belajar Java
 Belajar C++
 Belajar TypeScript
-Belajar C#
+Belajar Ruby
+Belajar Go
+Belajar SQL
