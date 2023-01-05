@@ -4,4 +4,4 @@ Belajar Python
 Belajar Java
 Belajar C++
 Belajar TypeScript
-Belajar Ruby
+Belajar C#
