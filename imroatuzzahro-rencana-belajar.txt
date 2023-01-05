@@ -5,3 +5,5 @@ Belajar Java
 Belajar C++
 Belajar TypeScript
 Belajar Ruby
+Belajar Go
+Belajar SQL
